@@ -1,5 +1,6 @@
 body{
 background-color: black;
+text-align: center;
 } 
 
 .heading{
@@ -21,25 +22,17 @@ background-color: black;
 .download-link{
     font-size: 16px;
     color:aquamarine;
-    text-align: center;
+
 }
 
 #tagpara{
     font-family: verdana;
     font-size: 20px;
     color:gray;
-    text-align: center;
+
 }
 
 .copyright{
     text-align: right;
     color: gray;
-}
-
-.img-container{
-    text-align: center;
-}
-
-.vid-container{
-    text-align: center;
 }
